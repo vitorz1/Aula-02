@@ -28,7 +28,7 @@ body {
     border-radius: 50px;
     cursor: pointer;
     width: 100px;
-    height: 100px;
+    height: 50px;
     object-fit: cover;
 }
 
