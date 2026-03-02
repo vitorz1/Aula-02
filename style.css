@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: hwb(21 0% 0%);
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: center;
