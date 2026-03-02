@@ -10,7 +10,7 @@ body {
 }
 
 .card {
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     width: 100px;
     padding: 20px;
     border-radius: 15px;
@@ -20,8 +20,20 @@ body {
 
 }
 
+.card img {
+    background-color: aquamarine;
+    color: #add;
+    border: none;
+    padding: 5px 5px;
+    border-radius: 50px;
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
 button {
-    background-color: rgb(30, 0, 255);
+    background-color: rgb(240, 240, 240);
     color: white;
     border: none;
     padding: 10px 20px;
