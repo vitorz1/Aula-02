@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+    font-family: 'Segoe UI';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100x;
+    margin: 0;
+
+}
